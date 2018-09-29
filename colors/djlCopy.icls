@@ -1,0 +1,29 @@
+<scheme name="djlCopy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="cce8cf" />
+    <option name="READONLY_BACKGROUND" value="cce8cf" />
+  </colors>
+  <attributes>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e80f14" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4168e8" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e8770f" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
