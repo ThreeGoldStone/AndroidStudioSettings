@@ -6,7 +6,6 @@
       <mapping pattern="修改" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
