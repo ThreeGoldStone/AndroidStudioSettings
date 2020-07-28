@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="diver" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="OneSDK1" type="PLAIN_TEXT" />
       <mapping pattern="修改" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
