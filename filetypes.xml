@@ -10,6 +10,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="prn" type="PLAIN_TEXT" />
+      <mapping ext="http" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
