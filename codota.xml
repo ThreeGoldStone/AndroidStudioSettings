@@ -14,10 +14,10 @@
         <option value="deep-completions" />
       </set>
     </option>
-    <option name="incompleteIndexingProjects">
-      <set>
-        <option value="244147b5" />
-      </set>
+    <option name="completeIndexingProjects">
+      <map>
+        <entry key="244147b5" value="1" />
+      </map>
     </option>
     <option name="usedLanguages">
       <set>
