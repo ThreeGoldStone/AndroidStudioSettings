@@ -58,6 +58,10 @@
           <option name="url" value="http://gitlab.yw56.com.cn" />
           <option name="userName" value="duanjl" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.yw56.com.cn/lupf/pda-tt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\gitResp" />
