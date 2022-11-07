@@ -7,6 +7,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.tooltip.initialDelay" value="501" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
