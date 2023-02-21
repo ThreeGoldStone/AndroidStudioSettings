@@ -45,6 +45,17 @@
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.16.13.142:5555" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 5" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
