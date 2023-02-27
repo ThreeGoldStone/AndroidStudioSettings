@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="djl" />
         <option value="package:mine" />
+        <option value="djl" />
       </list>
     </option>
   </component>
