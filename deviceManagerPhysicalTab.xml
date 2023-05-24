@@ -88,6 +88,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="17d7a03d" />
+          </Key>
+        </key>
+        <name value="Xiaomi 23013RK75C" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
