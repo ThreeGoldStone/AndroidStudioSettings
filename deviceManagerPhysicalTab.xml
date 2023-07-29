@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="2111959" />
+          </Key>
+        </key>
+        <name value="iData T1" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="172.16.13.180:5555" />
           </Key>
         </key>
@@ -77,17 +88,6 @@
         <name value="idata 95V Series" />
         <target value="Android 6.0" />
         <api value="androidversion:23:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="2111959" />
-          </Key>
-        </key>
-        <name value="iData T1" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
