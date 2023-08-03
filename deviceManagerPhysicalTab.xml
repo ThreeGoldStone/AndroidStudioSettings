@@ -127,8 +127,9 @@
             <value value="127.0.0.1:5555" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="unknown Android SDK built for x86" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
