@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="172.16.13.196:5555" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 5" />
-        <target value="Android 8.0" />
-        <api value="androidversion:26:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="2111959" />
           </Key>
         </key>
         <name value="iData T1" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.16.13.196:5555" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 5" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
