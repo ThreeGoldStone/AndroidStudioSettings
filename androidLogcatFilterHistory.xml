@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="djl" />
     <option name="nonFavorites">
       <list>
+        <option value="djl" />
         <option value="package:mine" />
         <option value="com.android.browser" />
-        <option value="djl" />
       </list>
     </option>
   </component>
